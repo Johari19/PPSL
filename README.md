@@ -18,3 +18,22 @@
 3. Enjoy!
 
 Support: admin@josephambayec.dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python Program Support Library Copyright (C) 2019 Joseph Ambayec
