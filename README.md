@@ -10,7 +10,7 @@
 ### Installation:
 
 1. Download ppsl.py
-2. At the top of script, put from ppsl import *
+2. At the top of script, put _from ppsl import *_
 3. Enjoy!
 
 Support: admin@josephambayec.dev
