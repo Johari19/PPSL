@@ -3,9 +3,9 @@
 
 #### This library will give python programmers a multitude of standard and extra functions for their scripts and programs!
 
-To install you must first have the following:
-import sys
-import time
+#### To install you must first have the following:
+##### import sys
+##### import time
 
 Installation:
 
