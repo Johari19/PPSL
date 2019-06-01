@@ -25,6 +25,9 @@ Open the ppsl.py file in an editor or in github to see in depth comment and guid
 - [ ] Get library on pip
 - [ ] See other projects using my library
 
+## Notes:
+Check out this video and my channel: https://youtu.be/209Iq2ln_No
+
 Support: admin@josephambayec.dev
 
 
