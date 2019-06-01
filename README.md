@@ -19,9 +19,12 @@
 
 
 ### Goals:
-- [] Setup 20 functions
-- [] Get library on pip
-- [] See other projects using my library
+- [X] Setup 2 functions
+- [ ] Setup 5 functions
+- [ ] Setup 10 functions
+- [ ] Setup 20 functions
+- [ ] Get library on pip
+- [ ] See other projects using my library
 
 Support: admin@josephambayec.dev
 
