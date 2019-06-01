@@ -17,6 +17,12 @@
 2. At the top of script, put _from ppsl import *_
 3. Enjoy!
 
+
+### Goals:
+- [] Setup 20 functions
+- [] Get library on pip
+- [] See other projects using my library
+
 Support: admin@josephambayec.dev
 
 
