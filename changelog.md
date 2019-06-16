@@ -9,3 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Pause function
 - Choice function
 - Example python script
+
+
+## [0.0.6] - 2019-06-16
+### Added
+- Error function
+
+### Removed
+- Stopwatch function
+
+### Fixed
+- Previous errors and bugs
+
+
