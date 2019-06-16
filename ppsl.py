@@ -5,7 +5,7 @@
 # Setup
 import sys
 import time
-
+from datetime import datetime
 if __name__ == '__main__':
     print("Do not run this program! Visit my site: www.josephambayec.dev")
     time.sleep(10)
@@ -28,4 +28,11 @@ else:
             time.sleep(3)
             sys.exit()
 
-    
+    # Error Function
+    def log_error(e):
+        timestamp = datetime.now()
+        print(e)
+        f = open("error.txt","a+")
+        f.write('[' + str(timestamp) + ']\n' + 'Error: ' + e + ' \n')
+        f.close()
+        time.sleep(5)
